@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript react
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ssmudgal@gmail.com or my ig handle -> punitmudgal_
+- 📫 How to reach me pntmudgal@gmail.com or my ig handle -> punitmudgal_
 
 <!---
 PunitMudgal/PunitMudgal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
