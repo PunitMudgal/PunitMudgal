@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PunitMudgal
+- 👋 Hi, I’m @Punit Sharma
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript react
 - 💞️ I’m looking to collaborate on ...
