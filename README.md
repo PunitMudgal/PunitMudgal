@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Punit Sharma
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript react
+- 👀 I’m interested in MERN STACK development
+- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pntmudgal@gmail.com or my ig handle -> punitmudgal_
+- 📫 How to reach me rahul722721@gmail.com
 
 <!---
 PunitMudgal/PunitMudgal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
