@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN STACK development
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rahul722721@gmail.com
+- 📫 How to reach me ssmudgal01@gmail.com
 
 <!---
 PunitMudgal/PunitMudgal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
