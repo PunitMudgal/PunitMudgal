@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Punit Sharma
-- 👀 I’m interested in MERN STACK development
-- 🌱 I’m currently learning postgressql
+- 👀 I’m interested in Full Stack web development
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ssmudgal01@gmail.com
 
